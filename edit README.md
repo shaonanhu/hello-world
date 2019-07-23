@@ -3,5 +3,5 @@ try another repository
 
 Hi class,
 
-This is shaonan, I like people call me Nick.
+This is shaonan hu, I like people call me Nick.
 Nice to meet you
